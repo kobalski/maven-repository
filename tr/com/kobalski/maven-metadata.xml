@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>wsdl.fetcher.plugin</name>
+      <prefix>wsdl.fetcher.</prefix>
+      <artifactId>wsdl.fetcher.plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
