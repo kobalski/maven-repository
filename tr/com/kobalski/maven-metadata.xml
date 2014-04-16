@@ -6,5 +6,10 @@
       <prefix>wsdl.fetcher.</prefix>
       <artifactId>wsdl.fetcher.plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>wsdlfetcherplugin</name>
+      <prefix>wsdlfetcher</prefix>
+      <artifactId>wsdlfetcherplugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
