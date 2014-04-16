@@ -2,11 +2,6 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>wsdl.fetcher.plugin</name>
-      <prefix>wsdl.fetcher.</prefix>
-      <artifactId>wsdl.fetcher.plugin</artifactId>
-    </plugin>
-    <plugin>
       <name>wsdlfetcherplugin</name>
       <prefix>wsdlfetcher</prefix>
       <artifactId>wsdlfetcherplugin</artifactId>
