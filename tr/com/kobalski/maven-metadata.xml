@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>js.obfuscator.plugin</name>
+      <prefix>js.obfuscator.</prefix>
+      <artifactId>js.obfuscator.plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
